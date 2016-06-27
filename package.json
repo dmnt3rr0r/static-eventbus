@@ -1,0 +1,21 @@
+{
+  "name": "static-eventbus",
+  "version": "0.0.1",
+  "main": "eventbus.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dmnt3rr0r/static-eventbus.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnt3rr0r/static-eventbus/issues"
+  },
+  "homepage": "https://github.com/dmnt3rr0r/static-eventbus"
+  "jspm": {
+    "registry": "github",
+    "format": "esm",
+    "dependencies": {
+      "eventemitter-rx": "npm:eventemitter-rx@1.0.0"
+    }
+  }
+}
