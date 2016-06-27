@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/dmnt3rr0r/static-eventbus/issues"
   },
-  "homepage": "https://github.com/dmnt3rr0r/static-eventbus"
+  "homepage": "https://github.com/dmnt3rr0r/static-eventbus",
   "jspm": {
     "registry": "github",
     "format": "esm",
